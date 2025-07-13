@@ -15,3 +15,4 @@ DATA SOURCE:-
 Source = https://www.weatherapi.com/
 
 SCREENSHOT:-
+https://github.com/sagarsinghbisht20/weather-dashboard/blob/main/Snapshot%20of%20Weather%20Dashboard.jpg
