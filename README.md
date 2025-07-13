@@ -1,4 +1,4 @@
-# weather-dashboard
+# Weather-dashboard
 PROJECT TITLE:-
 Weather Dashboard
 
